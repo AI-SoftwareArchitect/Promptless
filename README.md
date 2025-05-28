@@ -24,4 +24,4 @@ Promptless/
 ├── ollama_strategy.py # Ollama-based LLM strategy
 ├── main.py # Entry point
 
-[Video](https://youtu.be/tXlfdwcelNU)
+[Image](promptless.png)
