@@ -1,6 +1,8 @@
 **Promptless** is a self-thinking, autonomous AI agent that monitors and maintains applications running inside Docker containers — completely **prompt-free**.  
 It detects anomalies, errors, vulnerabilities, and can even generate or improve applications on its own inside a containerized environment.
 
+⚠️ Caution: This software may cause unintended effects or issues when running inside Docker containers. Please thoroughly test before using in production environments.
+
 ---
 
 ## Features
