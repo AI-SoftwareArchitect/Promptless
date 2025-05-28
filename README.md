@@ -30,6 +30,7 @@ Promptless/
 ├── strategy.py # Strategy pattern interface
 ├── ollama_strategy.py # Ollama-based LLM strategy
 ├── main.py # Entry point
+
 ##
 
 ![Image](promptless.png)
