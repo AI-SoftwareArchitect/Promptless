@@ -28,3 +28,12 @@ Promptless/
 ##
 
 ![Image](promptless.png)
+
+Promptless Dashboard UI
+
+##
+![Image 1](1.png)
+
+##
+
+![Image 2](2.png)
