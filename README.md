@@ -24,4 +24,4 @@ Promptless/
 ├── ollama_strategy.py # Ollama-based LLM strategy
 ├── main.py # Entry point
 
-[Image](promptless.png)
+![Image](promptless.png)
