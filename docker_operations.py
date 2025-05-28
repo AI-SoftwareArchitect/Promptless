@@ -1,7 +1,7 @@
 import docker
 
 class DockerizedAIExecutor:
-    CONTAINER_ID = "9f92274732ce" 
+    CONTAINER_ID = "2d7b07a048b8" 
 
     @staticmethod
     def execute(command: str):
