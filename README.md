@@ -3,6 +3,10 @@ It detects anomalies, errors, vulnerabilities, and can even generate or improve 
 
 ⚠️ Caution: This software may cause unintended effects or issues when running inside Docker containers. Please thoroughly test before using in production environments.
 
+##
+
+![Promptless](promptless_logo.png)
+
 ---
 
 ## Features
