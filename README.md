@@ -17,6 +17,7 @@ It detects anomalies, errors, vulnerabilities, and can even generate or improve 
 -  **App Improvement:** Continuously improves code or generates new applications inside `/app` folder.  
 -  **Short-Term Memory:** Stores past thoughts and actions to guide future decisions.  
 -  **Secure & Isolated:** Operates within a container with limited permissions.
+-  **Dashboard (Reactjs & GraphQL)** Sends data and see visually errors , memory of ai agent and commands performed.
 
 ---
 
